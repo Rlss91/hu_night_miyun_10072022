@@ -12,4 +12,4 @@ let y = 5,
   z = 8;
 
 let sum = x + y + z;
-console.log(sum);
+console.log("sum", sum);
