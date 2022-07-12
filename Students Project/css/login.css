@@ -1,0 +1,15 @@
+body {
+  background-color: cornflowerblue;
+}
+label {
+  background-color: blanchedalmond;
+}
+h1 {
+  color: darkgreen;
+  background-color: blanchedalmond;
+  font-size: 5rem;
+  text-align: center;
+}
+.email-label {
+  background-color: aqua;
+}
