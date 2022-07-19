@@ -4,7 +4,6 @@ body {
 }
 
 input,
-button,
 select {
   background-color: #60b2e5;
 }
@@ -16,4 +15,25 @@ a {
 
 .container {
   background-color: #71a2b6;
+}
+
+.betterBtn {
+  background-color: #60b2e5;
+  border: 0; /* disable the border */
+  text-decoration: none; /* disable the border */
+  padding: 1rem; /* add some space between the text of the btn and the background */
+  border-radius: 2rem; /* meagel at ha pinot */
+  box-shadow: 0.2rem 0.2rem 0 0 #53f4ff, 0.4rem 0.4rem 0 0 #53f4ffaf,
+    0.6rem 0.6rem 0 0 #53f4ff68, 0.8rem 0.8rem 0 0 #53f4ff29; /* the shadow effect */
+  cursor: pointer; /* change the pointer */
+}
+
+.betterBtn:hover {
+  background-color: #53f4ff;
+}
+
+.betterTitle {
+  text-shadow: 0 0 0.2rem #53f4ff, 0 0 0.4rem #53f4ff, 0 0 0.6rem #53f4ff,
+    0 0 0.8rem #53f4ff, 0 0 1rem #53f4ff; /* neon effect of the text */
+  color: #fff;
 }
