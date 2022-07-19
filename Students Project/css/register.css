@@ -1,0 +1,19 @@
+body {
+  background-color: #7c8483;
+  text-align: center;
+}
+
+input,
+button,
+select {
+  background-color: #60b2e5;
+}
+
+a {
+  background-color: #53f4ff;
+  color: #982649;
+}
+
+.container {
+  background-color: #71a2b6;
+}
