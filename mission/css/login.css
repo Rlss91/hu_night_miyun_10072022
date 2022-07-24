@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: #484d6d;
+  color: #08b2e3;
+  text-align: center;
+}
+h1 {
+  background-color: #57a773;
+  color: #efe9f4;
+}
+button {
+  background-color: #57a773;
+  color: #484d6d;
+}
