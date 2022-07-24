@@ -1,0 +1,13 @@
+html,
+body {
+  background-color: blue;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.small-img {
+  width: 20rem;
+}
